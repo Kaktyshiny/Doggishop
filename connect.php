@@ -1,7 +1,7 @@
 <?php
 $db_hostname='mysql.hostinger.ru';
 $db_username= 'u204475800_dogs';
-$db_password ='rfnzeirf97';
+$db_password ='qwerty';
 $db_database='u204475800_dogs';
 
 
